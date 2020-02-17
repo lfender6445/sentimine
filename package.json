@@ -1,0 +1,22 @@
+{
+  "name": "sentimine",
+  "version": "1.0.0",
+  "description": "subreddit sentiment analysis",
+  "main": "worker.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lfender6445/sentimine.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lfender6445/sentimine/issues"
+  },
+  "homepage": "https://github.com/lfender6445/sentimine#readme",
+  "devDependencies": {
+    "@cloudflare/wrangler": "^1.7.0"
+  }
+}
