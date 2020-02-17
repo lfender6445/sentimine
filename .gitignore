@@ -1,0 +1,10 @@
+.env
+.#*
+__pycache__
+TODO.md
+commented_test.txt
+log/*.ipynb_checkpoints
+node_modules/
+worker.js
+tmp/*
+wrangler.toml
